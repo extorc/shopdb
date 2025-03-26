@@ -71,6 +71,18 @@ th {
     margin-bottom: 15px;
 }
 
+
+.place-order {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+
+
 footer {
     background-color: #333;
     color: white;
