@@ -47,8 +47,8 @@ Future improvements may include payment gateway integration, user analytics, and
 - Implement advanced security measures for payment transactions.
 
 ## Contributors
-- **Rohan Shenoy**
-- **Shaurya Mittal**
+🔗 GitHub: [rohanshenoy30](https://github.com/rohanshenoy30)  
+🔗 GitHub: [extorc](https://github.com/extorc)  
 
 ## License
 This project is open-source and available under the MIT License.
