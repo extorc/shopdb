@@ -22,24 +22,20 @@ The UI elements are styled using built-in PyQt5 methods to ensure consistency an
 
 
 ## UI Overview
-1. 
-  ![UI Overview](![Screenshot](images/WhatsApp%20Image%202025-04-01%20at%2016.34.46.jpeg)
+![Screenshot](images/WhatsApp%20Image%202025-04-01%20at%2016.34.46.jpeg)
 
+## Maintains User Base
+![Screenshot](images/WhatsApp%20Image%202025-04-01%20at%2016.04.21.jpeg))
 
-2. Set up the database:
-   ```sql
-   CREATE DATABASE ecommerce_db;
-   ```
-3. Import the schema:
-   ```bash
-   mysql -u root -p ecommerce_db < schema.sql
-   ```
-4. (Optional) Set up a backend connection if integrating with a web app.
+## Maintains Products
+![Screenshot](images/WhatsApp%20Image%202025-04-01%20at%2016.04.40.jpeg)
 
-## Usage
-- Run SQL queries for inserting, updating, and retrieving data.
-- Execute SQL scripts to generate sales reports and analyze trends.
-- (Optional) Access the frontend interface to interact with the database visually.
+## Add Orders and track status
+![Screenshot](images/WhatsApp%20Image%202025-04-01%20at%2016.05.09.jpeg)
+
+## Explore Statistics
+![Screenshot](images/WhatsApp%20Image%202025-04-01%20at%2016.05.37.jpeg)
+
 
 ## Conclusion
 Our E-Commerce Management System project effectively demonstrates the use of database systems in handling online business operations. 
