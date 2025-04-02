@@ -23,7 +23,7 @@ The UI elements are styled using built-in PyQt5 methods to ensure consistency an
 
 ## UI Overview
 1. Clone the repository:
-  ![Alt text]('/Users/rohanshenoy/Downloads/WhatsApp Image 2025-04-01 at 16.34.46.jpeg')
+  ![Alt text]('/Users/rohanshenoy/Desktop/shopdb/WhatsApp Image 2025-04-01 at 16.34.46.jpeg')
 
 2. Set up the database:
    ```sql
