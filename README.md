@@ -22,8 +22,8 @@ The UI elements are styled using built-in PyQt5 methods to ensure consistency an
 
 
 ## UI Overview
-1. Clone the repository:
-  ![Alt text](https://example.com/image.png)
+1. 
+  ![UI Overview]([https://example.com/image.png](https://github.com/rohanshenoy30/shopdb/blob/main/images/WhatsApp%20Image%202025-04-01%20at%2016.34.46.jpeg))
 
 
 2. Set up the database:
